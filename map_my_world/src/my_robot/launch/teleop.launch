@@ -2,5 +2,5 @@
 
 <launch>
   <!-- Teleop -->
-  <node name="teleop_twist_keyboard.py" pkg="teleop_twist_keyboard" type="teleop_twist_keyboard"/>
+  <node name="teleop_twist_keyboard" pkg="teleop_twist_keyboard" type="teleop_twist_keyboard.py"/>
 </launch>
