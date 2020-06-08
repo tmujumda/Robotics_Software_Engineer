@@ -1,8 +1,0 @@
-prefix=/home/robond/Robotics_Software_Engineer/home_service_robot/install
-
-Name: my_robot
-Description: Description of my_robot
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/robond/Robotics_Software_Engineer/home_service_robot/install/lib 
-Requires: 

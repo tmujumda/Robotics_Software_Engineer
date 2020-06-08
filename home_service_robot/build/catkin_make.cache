@@ -1,2 +1,0 @@
-add_markers:my_robot:pick_objects:slam_gmapping/gmapping:slam_gmapping/slam_gmapping:teleop_twist_keyboard
--DCATKIN_DEVEL_PREFIX=/home/robond/Robotics_Software_Engineer/home_service_robot/devel -DCMAKE_INSTALL_PREFIX=/home/robond/Robotics_Software_Engineer/home_service_robot/install -G Unix Makefiles
