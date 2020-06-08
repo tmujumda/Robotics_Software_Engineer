@@ -33,6 +33,6 @@
               -x $(arg x) -y $(arg y) -z $(arg z)
               -R $(arg roll) -P $(arg pitch) -Y $(arg yaw)"/>
 
-  <node name="rviz" pkg="rviz" type="rviz" respawn="false" args="-d /home/robond/home_service_robot/catkin_ws/src/my_robot/MyRvizConfig.rviz"/>
+  <node name="rviz" pkg="rviz" type="rviz" respawn="false" args="-d /home/robond/Robotics_Software_Engineer/home_service_robot/src/my_robot/MyRvizConfig.rviz"/>
 
 </launch>
